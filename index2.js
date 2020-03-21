@@ -127,7 +127,10 @@ $(document).ready(function () {
 
 //Загрузить
 // git status
+// git add
+// git commit -m "Комменты"
+// git push
 //
-//
-//
-//
+
+
+//5 урок
