@@ -53,6 +53,7 @@ $(document).ready(function () {
     var rurUsdRate = 0;
     $.getJSON(currencyUrl, function (data) {
         console.log(data.Valute.USD.Value);
+        console.log(data.Valute.USD.Value);
         rurUsdRate = data.Valute.USD.Value;
 
     });
