@@ -101,7 +101,7 @@ $(document).ready(function () {
 
     })
 
-    //Новый коммент
+
 
 
 })
@@ -110,3 +110,24 @@ $(document).ready(function () {
 // 1) создал аккаунт
 // 2) настроить user.name и user.email   list посмотреть
 // 3) Инициализировать репозиторий(git init)
+
+
+
+// echo "# calculate" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git remote add origin https://github.com/NagaVlad/calculate.git
+// git push -u origin master
+
+
+// 4) переход в папку 
+// git clone ССЫЛКА
+
+
+//Загрузить
+// git status
+//
+//
+//
+//
