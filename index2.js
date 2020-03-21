@@ -131,7 +131,7 @@ $(document).ready(function () {
 // git add
 // git commit -m "Комменты"
 // git push
-//
+// git reset --hard head^1
 
 
 //5 урок попытка 2
